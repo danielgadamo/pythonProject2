@@ -41,6 +41,7 @@ print(list1)
 # list1[4:6]=[10,100,list.append(100)]
 # print(list1)
 # list3//check gitmkm
+# /////
 list4=[]
 
 for i in list1:
