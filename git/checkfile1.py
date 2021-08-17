@@ -20,6 +20,10 @@ class checkfile1():
     def showtext(self):
         text1=self.driver.find_element_by_css_selector('[class="roboto-bold ng-binding"]').text
         return text1
+     
+    def showtext2(self):
+        text2=self.driver.find_element_by_css_selector('[class="roboto-bold ng-binding"]').text
+        return text2
 #
 #
 #
